@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+supabase
+finnhub-python
+pydantic[email]
+python-jose[cryptography]
+passlib[bcrypt]
+slowapi
